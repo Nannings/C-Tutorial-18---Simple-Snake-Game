@@ -1,2 +1,4 @@
 ﻿  Snake.cpp
+d:\cloud\stackip\development\c++\001 snake\snake\snake\snake.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\cloud\stackip\development\c++\001 snake\snake\snake\snake.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Snake.vcxproj -> D:\Cloud\stackip\Development\C++\001 snake\Snake\Debug\Snake.exe
